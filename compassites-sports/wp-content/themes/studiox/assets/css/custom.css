@@ -1,0 +1,101 @@
+/* team custom */
+.our-team .our-team-border {
+    margin: 0;
+}
+.r-tabs .r-tabs-panel.r-tabs-state-active, .r-tabs .r-tabs-panel.r-tabs-state-default {
+    max-width: 100%;
+    margin: 0 15px;
+}
+
+
+.tab-list-top{
+    margin-bottom: 400px !important;
+}
+
+.tab-content-top{
+    position: absolute;
+    top: 368px;
+    padding: 0;
+}
+.custom-panel{
+    margin-top: 60px;
+    padding: 0 15px;
+}
+
+.custom-panel:nth-of-type(-n+16){
+    position: absolute;
+    top:650px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.custom-panel:nth-of-type(-n+8){
+    position: absolute;
+    top: 363px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.tab-list-center{
+    margin-bottom: 400px !important;
+}
+.tab-content-center{
+    position: absolute;
+    top: 650px;
+    padding: 0;
+}
+.r-tabs .r-tabs-nav .r-tabs-tab:nth-child(n+9){
+    margin-bottom: 0 !important;
+}
+
+@media screen and (max-width: 1199px)  {
+
+    .custom-panel:nth-of-type(-n+16) {
+        position: absolute;
+        top: 540px;
+    }
+    .custom-panel:nth-of-type(-n+8) {
+        top: 310px;
+    }
+}
+
+@media screen and (max-width: 1079px)  {
+
+    .custom-panel:nth-of-type(-n+16) {
+        top: 540px;
+    }
+
+    .custom-panel:nth-of-type(-n+8) {
+        top: 310px !important;
+    }
+
+}
+@media screen and (max-width: 991px)  {
+
+    .custom-panel:nth-of-type(-n+16) {
+        top: 423px;
+    }
+
+    .custom-panel:nth-of-type(-n+8) {
+        top: 250px !important;
+    }
+    .tab-list-top {
+        margin-bottom: 450px !important;
+    }
+    .tab-list-center {
+        margin-bottom: 450px !important;
+    }
+
+}
+@media screen and (max-width: 767px)  {
+
+    .tab-content-top,.tab-content-center,.custom-panel:nth-of-type(-n+16),.custom-panel:nth-of-type(-n+8){
+        position:relative;
+        top:auto !important;
+        padding:10px;
+    }
+    .tab-list-top,.tab-list-center{
+        margin-bottom: 0 !important;
+    }
+
+}

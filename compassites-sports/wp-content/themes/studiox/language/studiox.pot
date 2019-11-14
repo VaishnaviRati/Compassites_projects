@@ -1,0 +1,1883 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicool\n"
+"POT-Creation-Date: 2017-03-16 08:38+0700\n"
+"PO-Revision-Date: 2017-03-16 08:39+0700\n"
+"Last-Translator: \n"
+"Language-Team: Bravotheme <bravotheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;_n;__;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:26
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: ../404.php:27
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../bravo_app/configs/author-meta.php:11
+#: ../bravo_app/configs/author-meta.php:12
+msgid "Facebook URL"
+msgstr ""
+
+#: ../bravo_app/configs/author-meta.php:16
+#: ../bravo_app/configs/author-meta.php:17
+msgid "Twitter URL"
+msgstr ""
+
+#: ../bravo_app/configs/author-meta.php:21
+#: ../bravo_app/configs/author-meta.php:22
+msgid "Dribble URL"
+msgstr ""
+
+#: ../bravo_app/configs/author-meta.php:26
+#: ../bravo_app/configs/author-meta.php:27
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../bravo_app/configs/author-meta.php:31
+#: ../bravo_app/configs/author-meta.php:32
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:68
+msgid "Primary Menu"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:69
+msgid "Side Menu"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:81
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:83
+msgid "Widgets in this area will be shown on all blog page."
+msgstr ""
+
+#: ../bravo_app/configs/config.php:112 ../bravo_app/helpers/general.php:416
+#: ../bravo_app/helpers/general.php:456 ../bravo_app/models/page.php:87
+#: ../bravo_app/models/page.php:172 ../bravo_app/models/page.php:257
+#: ../bravo_app/models/page.php:341 ../bravo_app/models/post.php:142
+msgid "-- Select --"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:113 ../bravo_app/models/page.php:88
+#: ../bravo_app/models/page.php:173 ../bravo_app/models/page.php:258
+#: ../bravo_app/models/page.php:342
+msgid "bounce"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:114 ../bravo_app/models/page.php:89
+#: ../bravo_app/models/page.php:174 ../bravo_app/models/page.php:259
+#: ../bravo_app/models/page.php:343
+msgid "flash"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:115 ../bravo_app/models/page.php:90
+#: ../bravo_app/models/page.php:175 ../bravo_app/models/page.php:260
+#: ../bravo_app/models/page.php:344
+msgid "pulse"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:116 ../bravo_app/models/page.php:91
+#: ../bravo_app/models/page.php:176 ../bravo_app/models/page.php:261
+#: ../bravo_app/models/page.php:345
+msgid "rubberBand"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:117 ../bravo_app/models/page.php:92
+#: ../bravo_app/models/page.php:177 ../bravo_app/models/page.php:262
+#: ../bravo_app/models/page.php:346
+msgid "shake"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:118 ../bravo_app/models/page.php:93
+#: ../bravo_app/models/page.php:178 ../bravo_app/models/page.php:263
+#: ../bravo_app/models/page.php:347
+msgid "headShake"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:119 ../bravo_app/models/page.php:94
+#: ../bravo_app/models/page.php:179 ../bravo_app/models/page.php:264
+#: ../bravo_app/models/page.php:348
+msgid "swing"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:120 ../bravo_app/models/page.php:95
+#: ../bravo_app/models/page.php:180 ../bravo_app/models/page.php:265
+#: ../bravo_app/models/page.php:349
+msgid "tada"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:121 ../bravo_app/models/page.php:96
+#: ../bravo_app/models/page.php:181 ../bravo_app/models/page.php:266
+#: ../bravo_app/models/page.php:350
+msgid "wobble"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:122 ../bravo_app/models/page.php:97
+#: ../bravo_app/models/page.php:182 ../bravo_app/models/page.php:267
+#: ../bravo_app/models/page.php:351
+msgid "jello"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:123 ../bravo_app/models/page.php:98
+#: ../bravo_app/models/page.php:183 ../bravo_app/models/page.php:268
+#: ../bravo_app/models/page.php:352
+msgid "bounceIn"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:124 ../bravo_app/models/page.php:99
+#: ../bravo_app/models/page.php:184 ../bravo_app/models/page.php:269
+#: ../bravo_app/models/page.php:353
+msgid "bounceInDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:125 ../bravo_app/models/page.php:100
+#: ../bravo_app/models/page.php:185 ../bravo_app/models/page.php:270
+#: ../bravo_app/models/page.php:354
+msgid "bounceInLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:126 ../bravo_app/models/page.php:101
+#: ../bravo_app/models/page.php:186 ../bravo_app/models/page.php:271
+#: ../bravo_app/models/page.php:355
+msgid "bounceInRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:127 ../bravo_app/models/page.php:102
+#: ../bravo_app/models/page.php:187 ../bravo_app/models/page.php:272
+#: ../bravo_app/models/page.php:356
+msgid "bounceInUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:128 ../bravo_app/models/page.php:103
+#: ../bravo_app/models/page.php:188 ../bravo_app/models/page.php:273
+#: ../bravo_app/models/page.php:357
+msgid "bounceOut"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:129 ../bravo_app/models/page.php:104
+#: ../bravo_app/models/page.php:189 ../bravo_app/models/page.php:274
+#: ../bravo_app/models/page.php:358
+msgid "bounceOutDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:130 ../bravo_app/models/page.php:105
+#: ../bravo_app/models/page.php:190 ../bravo_app/models/page.php:275
+#: ../bravo_app/models/page.php:359
+msgid "bounceOutLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:131 ../bravo_app/models/page.php:106
+#: ../bravo_app/models/page.php:191 ../bravo_app/models/page.php:276
+#: ../bravo_app/models/page.php:360
+msgid "bounceOutRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:132 ../bravo_app/models/page.php:107
+#: ../bravo_app/models/page.php:192 ../bravo_app/models/page.php:277
+#: ../bravo_app/models/page.php:361
+msgid "bounceOutUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:133 ../bravo_app/models/page.php:108
+#: ../bravo_app/models/page.php:193 ../bravo_app/models/page.php:278
+#: ../bravo_app/models/page.php:362
+msgid "fadeIn"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:134 ../bravo_app/models/page.php:109
+#: ../bravo_app/models/page.php:194 ../bravo_app/models/page.php:279
+#: ../bravo_app/models/page.php:363
+msgid "fadeInDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:135 ../bravo_app/models/page.php:110
+#: ../bravo_app/models/page.php:195 ../bravo_app/models/page.php:280
+#: ../bravo_app/models/page.php:364
+msgid "fadeInDownBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:136 ../bravo_app/models/page.php:111
+#: ../bravo_app/models/page.php:196 ../bravo_app/models/page.php:281
+#: ../bravo_app/models/page.php:365
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:137 ../bravo_app/models/page.php:112
+#: ../bravo_app/models/page.php:197 ../bravo_app/models/page.php:282
+#: ../bravo_app/models/page.php:366
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:138 ../bravo_app/models/page.php:113
+#: ../bravo_app/models/page.php:198 ../bravo_app/models/page.php:283
+#: ../bravo_app/models/page.php:367
+msgid "fadeInRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:139 ../bravo_app/models/page.php:114
+#: ../bravo_app/models/page.php:199 ../bravo_app/models/page.php:284
+#: ../bravo_app/models/page.php:368
+msgid "fadeInRightBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:140 ../bravo_app/models/page.php:115
+#: ../bravo_app/models/page.php:200 ../bravo_app/models/page.php:285
+#: ../bravo_app/models/page.php:369
+msgid "fadeInUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:141 ../bravo_app/models/page.php:116
+#: ../bravo_app/models/page.php:201 ../bravo_app/models/page.php:286
+#: ../bravo_app/models/page.php:370
+msgid "fadeInUpBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:142 ../bravo_app/models/page.php:117
+#: ../bravo_app/models/page.php:202 ../bravo_app/models/page.php:287
+#: ../bravo_app/models/page.php:371
+msgid "fadeOut"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:143 ../bravo_app/models/page.php:118
+#: ../bravo_app/models/page.php:203 ../bravo_app/models/page.php:288
+#: ../bravo_app/models/page.php:372
+msgid "fadeOutDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:144 ../bravo_app/models/page.php:119
+#: ../bravo_app/models/page.php:204 ../bravo_app/models/page.php:289
+#: ../bravo_app/models/page.php:373
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:145 ../bravo_app/models/page.php:120
+#: ../bravo_app/models/page.php:205 ../bravo_app/models/page.php:290
+#: ../bravo_app/models/page.php:374
+msgid "fadeOutLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:146 ../bravo_app/models/page.php:121
+#: ../bravo_app/models/page.php:206 ../bravo_app/models/page.php:291
+#: ../bravo_app/models/page.php:375
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:147 ../bravo_app/models/page.php:122
+#: ../bravo_app/models/page.php:207 ../bravo_app/models/page.php:292
+#: ../bravo_app/models/page.php:376
+msgid "fadeOutRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:148 ../bravo_app/models/page.php:123
+#: ../bravo_app/models/page.php:208 ../bravo_app/models/page.php:293
+#: ../bravo_app/models/page.php:377
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:149 ../bravo_app/models/page.php:124
+#: ../bravo_app/models/page.php:209 ../bravo_app/models/page.php:294
+#: ../bravo_app/models/page.php:378
+msgid "fadeOutUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:150 ../bravo_app/models/page.php:125
+#: ../bravo_app/models/page.php:210 ../bravo_app/models/page.php:295
+#: ../bravo_app/models/page.php:379
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:151 ../bravo_app/models/page.php:126
+#: ../bravo_app/models/page.php:211 ../bravo_app/models/page.php:296
+#: ../bravo_app/models/page.php:380
+msgid "flipInX"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:152 ../bravo_app/models/page.php:127
+#: ../bravo_app/models/page.php:212 ../bravo_app/models/page.php:297
+#: ../bravo_app/models/page.php:381
+msgid "flipInY"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:153 ../bravo_app/models/page.php:128
+#: ../bravo_app/models/page.php:213 ../bravo_app/models/page.php:298
+#: ../bravo_app/models/page.php:382
+msgid "flipOutX"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:154 ../bravo_app/models/page.php:129
+#: ../bravo_app/models/page.php:214 ../bravo_app/models/page.php:299
+#: ../bravo_app/models/page.php:383
+msgid "flipOutY"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:155 ../bravo_app/models/page.php:130
+#: ../bravo_app/models/page.php:215 ../bravo_app/models/page.php:300
+#: ../bravo_app/models/page.php:384
+msgid "lightSpeedIn"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:156 ../bravo_app/models/page.php:131
+#: ../bravo_app/models/page.php:216 ../bravo_app/models/page.php:301
+#: ../bravo_app/models/page.php:385
+msgid "lightSpeedOut"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:157 ../bravo_app/models/page.php:132
+#: ../bravo_app/models/page.php:217 ../bravo_app/models/page.php:302
+#: ../bravo_app/models/page.php:386
+msgid "rotateIn"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:158 ../bravo_app/models/page.php:133
+#: ../bravo_app/models/page.php:218 ../bravo_app/models/page.php:303
+#: ../bravo_app/models/page.php:387
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:159 ../bravo_app/models/page.php:134
+#: ../bravo_app/models/page.php:219 ../bravo_app/models/page.php:304
+#: ../bravo_app/models/page.php:388
+msgid "rotateInDownRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:160 ../bravo_app/models/page.php:135
+#: ../bravo_app/models/page.php:220 ../bravo_app/models/page.php:305
+#: ../bravo_app/models/page.php:389
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:161 ../bravo_app/models/page.php:136
+#: ../bravo_app/models/page.php:221 ../bravo_app/models/page.php:306
+#: ../bravo_app/models/page.php:390
+msgid "rotateInUpRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:162 ../bravo_app/models/page.php:137
+#: ../bravo_app/models/page.php:222 ../bravo_app/models/page.php:307
+#: ../bravo_app/models/page.php:391
+msgid "rotateOut"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:163 ../bravo_app/models/page.php:138
+#: ../bravo_app/models/page.php:223 ../bravo_app/models/page.php:308
+#: ../bravo_app/models/page.php:392
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:164 ../bravo_app/models/page.php:139
+#: ../bravo_app/models/page.php:224 ../bravo_app/models/page.php:309
+#: ../bravo_app/models/page.php:393
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:165 ../bravo_app/models/page.php:140
+#: ../bravo_app/models/page.php:225 ../bravo_app/models/page.php:310
+#: ../bravo_app/models/page.php:394
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:166 ../bravo_app/models/page.php:141
+#: ../bravo_app/models/page.php:226 ../bravo_app/models/page.php:311
+#: ../bravo_app/models/page.php:395
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:167 ../bravo_app/models/page.php:142
+#: ../bravo_app/models/page.php:227 ../bravo_app/models/page.php:312
+#: ../bravo_app/models/page.php:396
+msgid "hinge"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:168 ../bravo_app/models/page.php:143
+#: ../bravo_app/models/page.php:228 ../bravo_app/models/page.php:313
+#: ../bravo_app/models/page.php:397
+msgid "rollIn"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:169 ../bravo_app/models/page.php:144
+#: ../bravo_app/models/page.php:229 ../bravo_app/models/page.php:314
+#: ../bravo_app/models/page.php:398
+msgid "rollOut"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:170 ../bravo_app/models/page.php:145
+#: ../bravo_app/models/page.php:230 ../bravo_app/models/page.php:315
+#: ../bravo_app/models/page.php:399
+msgid "zoomIn"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:171 ../bravo_app/models/page.php:146
+#: ../bravo_app/models/page.php:231 ../bravo_app/models/page.php:316
+#: ../bravo_app/models/page.php:400
+msgid "zoomInDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:172 ../bravo_app/models/page.php:147
+#: ../bravo_app/models/page.php:232 ../bravo_app/models/page.php:317
+#: ../bravo_app/models/page.php:401
+msgid "zoomInLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:173 ../bravo_app/models/page.php:148
+#: ../bravo_app/models/page.php:233 ../bravo_app/models/page.php:318
+#: ../bravo_app/models/page.php:402
+msgid "zoomInRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:174 ../bravo_app/models/page.php:149
+#: ../bravo_app/models/page.php:234 ../bravo_app/models/page.php:319
+#: ../bravo_app/models/page.php:403
+msgid "zoomInUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:175 ../bravo_app/models/page.php:150
+#: ../bravo_app/models/page.php:235 ../bravo_app/models/page.php:320
+#: ../bravo_app/models/page.php:404
+msgid "zoomOut"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:176 ../bravo_app/models/page.php:151
+#: ../bravo_app/models/page.php:236 ../bravo_app/models/page.php:321
+#: ../bravo_app/models/page.php:405
+msgid "zoomOutDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:177 ../bravo_app/models/page.php:152
+#: ../bravo_app/models/page.php:237 ../bravo_app/models/page.php:322
+#: ../bravo_app/models/page.php:406
+msgid "zoomOutLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:178 ../bravo_app/models/page.php:153
+#: ../bravo_app/models/page.php:238 ../bravo_app/models/page.php:323
+#: ../bravo_app/models/page.php:407
+msgid "zoomOutRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:179 ../bravo_app/models/page.php:154
+#: ../bravo_app/models/page.php:239 ../bravo_app/models/page.php:324
+#: ../bravo_app/models/page.php:408
+msgid "zoomOutUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:180 ../bravo_app/models/page.php:155
+#: ../bravo_app/models/page.php:240 ../bravo_app/models/page.php:325
+#: ../bravo_app/models/page.php:409
+msgid "slideInDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:181 ../bravo_app/models/page.php:156
+#: ../bravo_app/models/page.php:241 ../bravo_app/models/page.php:326
+#: ../bravo_app/models/page.php:410
+msgid "slideInLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:182 ../bravo_app/models/page.php:157
+#: ../bravo_app/models/page.php:242 ../bravo_app/models/page.php:327
+#: ../bravo_app/models/page.php:411
+msgid "slideInRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:183 ../bravo_app/models/page.php:158
+#: ../bravo_app/models/page.php:243 ../bravo_app/models/page.php:328
+#: ../bravo_app/models/page.php:412
+msgid "slideInUp"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:184 ../bravo_app/models/page.php:159
+#: ../bravo_app/models/page.php:244 ../bravo_app/models/page.php:329
+#: ../bravo_app/models/page.php:413
+msgid "slideOutDown"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:185 ../bravo_app/models/page.php:160
+#: ../bravo_app/models/page.php:245 ../bravo_app/models/page.php:330
+#: ../bravo_app/models/page.php:414
+msgid "slideOutLeft"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:186 ../bravo_app/models/page.php:161
+#: ../bravo_app/models/page.php:246 ../bravo_app/models/page.php:331
+#: ../bravo_app/models/page.php:415
+msgid "slideOutRight"
+msgstr ""
+
+#: ../bravo_app/configs/config.php:187 ../bravo_app/models/page.php:162
+#: ../bravo_app/models/page.php:247 ../bravo_app/models/page.php:332
+#: ../bravo_app/models/page.php:416
+msgid "slideOutUp"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:21
+msgid "General Options"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:26
+msgid "Posts Options"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:30
+msgid "Styling Options"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:39
+msgid "Logo"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:40
+msgid "This allow you to change logo"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:48
+msgid "Logo Scrolled"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:49
+msgid ""
+"This allow you to change logo when scroll the page (Not working with Blank "
+"Template)"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:57
+msgid "Logo Retina"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:58
+msgid ""
+"Note: You MUST re-name Logo Retina to logo-name@2x.ext-name. Example:<br>\n"
+"                                    Logo is: <em>my-logo.jpg</em><br>Logo "
+"Retina must be: <em>my-logo@2x.jpg</em>  "
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:65
+msgid "Footer Copy Right"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:73
+#: ../bravo_app/configs/theme-options.php:74
+msgid "Footer Social"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:81
+msgid "FontAwesome Icon Code"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:86 ../bravo_app/models/team.php:53
+msgid "URL"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:99
+msgid "Footer Template (Optional)"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:105
+msgid "Google Map API Key"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:106
+#, php-format
+msgid "Google Map API Key. See %s"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:106
+msgid "Obtaining an API key."
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:121
+msgid "Preload setting"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:129
+msgid "Main Color"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:130
+msgid "Choose your own main color"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:137 ../bravo_app/models/post.php:84
+msgid "Menu Multi Color?"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:144 ../bravo_app/models/post.php:90
+msgid "Side Menu Button Color"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:151
+#: ../bravo_app/configs/theme-options.php:152
+msgid "Google Fonts"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:158
+#: ../bravo_app/configs/theme-options.php:159
+msgid "Typography"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:166
+#: ../bravo_app/configs/theme-options.php:167
+msgid "Heading Font"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:174
+#: ../bravo_app/configs/theme-options.php:175
+msgid "Custom CSS"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:183
+msgid "Blog Options"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:189 ../bravo_app/models/post.php:118
+msgid "Blog page title"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:196 ../bravo_app/models/post.php:123
+msgid "Sub page title"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:203
+#: ../bravo_app/configs/theme-options.php:204 ../bravo_app/models/post.php:130
+msgid "Blog page background image"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:211 ../bravo_app/models/post.php:136
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:217 ../bravo_app/models/post.php:146
+msgid "No Sidebar"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:221 ../bravo_app/models/post.php:150
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:225 ../bravo_app/models/post.php:154
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../bravo_app/configs/theme-options.php:232
+msgid "Widget Area Selection"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:20
+msgid "Bravo Blog"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:27
+#: ../bravo_app/elements/bravo-facts.php:31
+#: ../bravo_app/elements/bravo-our-teams.php:11
+#: ../bravo_app/elements/bravo-portfolio.php:27
+msgid "Number"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:34
+#: ../bravo_app/elements/bravo-portfolio.php:34
+msgid "Category"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:37
+#: ../bravo_app/elements/bravo-portfolio.php:37
+msgid ""
+"<em>Tick 'All Categories' if you want to show portfolios of all Categories</"
+"em>"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:41
+#: ../bravo_app/elements/bravo-our-teams.php:19
+#: ../bravo_app/elements/bravo-portfolio.php:41
+msgid "Order"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:44
+#: ../bravo_app/elements/bravo-our-teams.php:22
+#: ../bravo_app/elements/bravo-portfolio.php:44
+msgid "Asc"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:45
+#: ../bravo_app/elements/bravo-our-teams.php:23
+#: ../bravo_app/elements/bravo-portfolio.php:45
+#: ../bravo_app/elements/bravo-section-title.php:49
+#: ../bravo_app/elements/bravo-sevice-item.php:44
+#: ../bravo_app/elements/bravo-timeline.php:48
+msgid "Desc"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:51
+#: ../bravo_app/elements/bravo-our-teams.php:29
+#: ../bravo_app/elements/bravo-portfolio.php:51
+msgid "Order By"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:54
+#: ../bravo_app/elements/bravo-our-teams.php:32
+#: ../bravo_app/elements/bravo-portfolio.php:54
+#: ../bravo_app/helpers/general.php:253
+msgid "None"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:55
+#: ../bravo_app/elements/bravo-our-teams.php:33
+#: ../bravo_app/elements/bravo-portfolio.php:55
+msgid "ID"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:56
+#: ../bravo_app/elements/bravo-our-teams.php:34
+#: ../bravo_app/elements/bravo-portfolio.php:56
+#: ../bravo_app/helpers/general.php:255
+msgid "Author"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:57
+#: ../bravo_app/elements/bravo-contact-info.php:41
+#: ../bravo_app/elements/bravo-facts.php:37
+#: ../bravo_app/elements/bravo-our-teams.php:35
+#: ../bravo_app/elements/bravo-portfolio.php:57
+#: ../bravo_app/elements/bravo-pricing.php:11
+#: ../bravo_app/elements/bravo-pricing.php:44
+#: ../bravo_app/elements/bravo-pricing.php:46
+#: ../bravo_app/elements/bravo-section-title.php:43
+#: ../bravo_app/elements/bravo-sevice-item.php:38
+#: ../bravo_app/elements/bravo-timeline.php:43
+msgid "Title"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:58
+#: ../bravo_app/elements/bravo-our-teams.php:36
+#: ../bravo_app/elements/bravo-portfolio.php:58
+#: ../bravo_app/elements/bravo-testimonial.php:55
+msgid "Name"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:59
+#: ../bravo_app/elements/bravo-our-teams.php:37
+#: ../bravo_app/elements/bravo-portfolio.php:59
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:60
+#: ../bravo_app/elements/bravo-our-teams.php:38
+#: ../bravo_app/elements/bravo-portfolio.php:60
+#: ../bravo_app/elements/bravo-timeline.php:53
+#: ../bravo_app/helpers/general.php:48
+msgid "Date"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:61
+#: ../bravo_app/elements/bravo-our-teams.php:39
+#: ../bravo_app/elements/bravo-portfolio.php:61
+msgid "Modified"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:62
+#: ../bravo_app/elements/bravo-our-teams.php:40
+#: ../bravo_app/elements/bravo-portfolio.php:62
+msgid "Parent"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:63
+#: ../bravo_app/elements/bravo-our-teams.php:41
+#: ../bravo_app/elements/bravo-portfolio.php:63
+msgid "Rand"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-blog.php:64
+#: ../bravo_app/elements/bravo-portfolio.php:64
+#: ../bravo_app/helpers/general.php:262
+msgid "Comment Count"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-contact-info.php:29
+msgid "Bravo Contact Info"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-contact-info.php:35
+#: ../bravo_app/elements/bravo-facts.php:25
+#: ../bravo_app/elements/bravo-sevice-item.php:32
+msgid "Icon"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-contact-info.php:48
+#: ../bravo_app/elements/bravo-facts.php:43
+#: ../bravo_app/elements/bravo-our-teams.php:47
+#: ../bravo_app/elements/bravo-pricing.php:57
+#: ../bravo_app/elements/bravo-section-title.php:56
+msgid "Animation Name"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-contact-info.php:52
+#: ../bravo_app/elements/bravo-facts.php:47
+#: ../bravo_app/elements/bravo-our-teams.php:51
+#: ../bravo_app/elements/bravo-pricing.php:61
+#: ../bravo_app/elements/bravo-section-title.php:60
+msgid ""
+"Example: fadeInRight. Read more <a href=\"http://daneden.github.io/animate."
+"css/\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-contact-info.php:57
+#: ../bravo_app/elements/bravo-facts.php:52
+#: ../bravo_app/elements/bravo-pricing.php:65
+#: ../bravo_app/elements/bravo-sevice-item.php:61
+#: ../bravo_app/elements/bravo-timeline.php:58 ../bravo_app/models/team.php:78
+#: ../bravo_app/models/team.php:86
+msgid "Color Scheme (Optional)"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-facts.php:19
+msgid "Bravo Counter Up"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-gmap.php:10
+msgid "Bravo Google Map"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-gmap.php:21
+msgid "Latitude"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-gmap.php:24
+msgid ""
+"Latitude, you can get it from  <a target='_blank' href='http://www.latlong."
+"net/convert-address-to-lat-long.html'>here</a>"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-gmap.php:31
+#: ../bravo_app/elements/bravo-gmap.php:34
+msgid "Longitude"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-gmap.php:42
+msgid "Zoom"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-gmap.php:50
+msgid "Custom Height"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-ios-slider.php:5
+msgid "Bravo iPhone Slider"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-ios-slider.php:11
+msgid "Images"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-ios-slider.php:13
+msgid "You can upload multiple images"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-our-teams.php:5
+msgid "Bravo Our Team"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-our-teams.php:55
+msgid "Multiple Color?"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-portfolio.php:20
+msgid "Bravo Portfolio"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:5
+msgid "Bravo Pricing Item"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:13
+msgid "Example: PREMIUM"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:18
+msgid "Subtitle"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:20
+msgid "Example: MONTHLY PLAN"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:25
+msgid "Highlight?"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:31
+#: ../bravo_app/elements/bravo-pricing.php:33
+msgid "Price"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:39
+msgid "Pricing Feature"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-pricing.php:52
+msgid "Button"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-section-title.php:27
+msgid "Bravo Section Title"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-section-title.php:33
+#: ../bravo_app/elements/bravo-testimonial.php:28
+#: ../bravo_app/elements/bravo-twitter.php:22
+msgid "Color Scheme"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-section-title.php:37
+msgid "Black"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-section-title.php:38
+msgid "White"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-sevice-item.php:26
+msgid "Bravo Service Item"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-sevice-item.php:51
+msgid "Alignment"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-sevice-item.php:55
+msgid "Left"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-sevice-item.php:56
+msgid "Right"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:22
+msgid "Bravo Testimonial"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:32
+#: ../bravo_app/elements/bravo-twitter.php:26
+msgid "Dark"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:33
+#: ../bravo_app/elements/bravo-twitter.php:27
+msgid "Light"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:38
+#: ../bravo_app/elements/bravo-timeline.php:38
+msgid "Items"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:44
+msgid "Avatar"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:50
+msgid "Review"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-testimonial.php:60
+msgid "Job"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-timeline.php:26
+msgid "Bravo Timeline"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-timeline.php:32
+msgid "Year"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-twitter.php:12
+msgid "Bravo Twitter Carousel"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-twitter.php:32
+msgid "Twitter Username"
+msgstr ""
+
+#: ../bravo_app/elements/bravo-twitter.php:37
+msgid "Number of post"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:14 ../bravo_app/helpers/general.php:297
+msgid "--Select--"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:40
+msgid "Text"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:44
+msgid "Textarea"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:52
+msgid "Colorpicker"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:56
+msgid "On/Off"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:70
+#: ../bravo_templates/elements/bravo-blog.php:39
+msgid "Read More"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:74
+msgid "By"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:79
+#, php-format
+msgid "%d Views"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:81
+#, php-format
+msgid "%d View"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:170
+msgid "Comment navigation"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:173
+msgid "Older Comments"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:177
+msgid "Newer Comments"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:209 ../bravo_app/helpers/general.php:224
+msgid "Home"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:216
+msgid "404 Page"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:225
+msgid "Blog"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:254
+msgid "Post ID"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:256
+msgid "Post Title"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:257
+msgid "Post Name"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:258
+msgid "Post Date"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:259
+msgid "Last Modified Date"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:260
+msgid "Post Parent"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:261
+msgid "Random"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:396 ../bravo_app/helpers/post.php:107
+msgid "All Categories"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:496
+msgid "Newest Posts"
+msgstr ""
+
+#: ../bravo_app/helpers/general.php:497
+msgid "Older Posts"
+msgstr ""
+
+#: ../bravo_app/helpers/post.php:67
+msgid "Previous Page"
+msgstr ""
+
+#: ../bravo_app/helpers/post.php:75
+msgid "Next Page"
+msgstr ""
+
+#: ../bravo_app/helpers/post.php:88
+msgid "Image Alt"
+msgstr ""
+
+#: ../bravo_app/libraries/category-walker.php:51
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:34
+msgid "You do not have permission to do this"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:41
+msgid "Importer Class Was Not Installed"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:93
+msgid ""
+"<span class='red'>Plugin: Option Tree must be installed first. Stop working!"
+"</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:103
+msgid "Importing the demo theme options... <span>DONE!</span><br>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:110
+msgid ""
+"<span class='red'>File: theme_options.json contain NULL content. Stop "
+"working!</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:119
+#, php-format
+msgid ""
+"<span class='red'>Can not read theme_options.json<br>File:%s<br>. Stop "
+"working!</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:140
+msgid "Importing the demo widgets... <span>DONE!</span>.<br>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:159
+msgid "<span class='red'>File Not Found. Stop working!</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:180
+#, php-format
+msgid "Importing data: %s  of %d ... <span>DONE!</span><br>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:208
+msgid "Importing menu settings ... <span>DONE!</span><br>"
+msgstr ""
+
+#: ../bravo_app/libraries/importer.php:234
+msgid ""
+"Setting reading options... <span>DONE!</span><br/><span>All Done! Have Fun</"
+"span>"
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:44
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:45
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:46
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:47
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:58
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:59
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:387
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../bravo_app/libraries/required_plugins.php:60
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:386
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:827
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2533
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:388
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:934
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3509
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3509
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../bravo_app/models/general.php:65
+#, php-format
+msgid "Search Result for: %s"
+msgstr ""
+
+#: ../bravo_app/models/general.php:81
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../bravo_app/models/general.php:232
+msgid "Loading ...."
+msgstr ""
+
+#: ../bravo_app/models/general.php:233
+msgid "Load More"
+msgstr ""
+
+#: ../bravo_app/models/general.php:235
+msgid "No More"
+msgstr ""
+
+#: ../bravo_app/models/general.php:362
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../bravo_app/models/page.php:84 ../bravo_app/models/page.php:169
+#: ../bravo_app/models/page.php:254 ../bravo_app/models/page.php:338
+msgid "Bravo Effect"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:37 ../bravo_app/models/portfolio.php:38
+#: ../bravo_app/models/portfolio.php:39 ../bravo_app/models/portfolio.php:40
+msgid "Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:41 ../bravo_app/models/team.php:115
+msgid "Add New"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:42
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:43
+msgid "New Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:44
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:45
+msgid "View Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:46
+msgid "All Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:47
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:48
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:49
+msgid "No Portfolio found."
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:50
+msgid "No Portfolio found in Trash."
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:73
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:74 ../bravo_app/models/portfolio.php:83
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:75
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:76
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:77
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:78
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:79
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:80
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:81
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:82
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:104
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:111 ../bravo_app/models/post.php:61
+msgid "General"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:116
+msgid "Icon Code (showing in Portfolio Element)"
+msgstr ""
+
+#: ../bravo_app/models/portfolio.php:119
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../bravo_app/models/post.php:54
+msgid "Page Information"
+msgstr ""
+
+#: ../bravo_app/models/post.php:66 ../bravo_app/models/post.php:67
+msgid "Custom Logo"
+msgstr ""
+
+#: ../bravo_app/models/post.php:72 ../bravo_app/models/post.php:73
+msgid "Custom Main Color"
+msgstr ""
+
+#: ../bravo_app/models/post.php:79
+msgid "Styling"
+msgstr ""
+
+#: ../bravo_app/models/post.php:110
+msgid "Other Options"
+msgstr ""
+
+#: ../bravo_app/models/post.php:159
+msgid "Sidebar ID"
+msgstr ""
+
+#: ../bravo_app/models/team.php:29
+msgid "Team Member Options"
+msgstr ""
+
+#: ../bravo_app/models/team.php:37
+msgid "Job Name"
+msgstr ""
+
+#: ../bravo_app/models/team.php:42
+msgid "Description"
+msgstr ""
+
+#: ../bravo_app/models/team.php:47
+msgid "Social Info"
+msgstr ""
+
+#: ../bravo_app/models/team.php:58
+msgid "Icon Code (Font Awesome)"
+msgstr ""
+
+#: ../bravo_app/models/team.php:66
+msgid "Skills"
+msgstr ""
+
+#: ../bravo_app/models/team.php:72
+msgid "Percent"
+msgstr ""
+
+#: ../bravo_app/models/team.php:111 ../bravo_app/models/team.php:112
+#: ../bravo_app/models/team.php:113 ../bravo_app/models/team.php:114
+msgid "Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:116
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:117
+msgid "New Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:118
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:119
+msgid "View Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:120
+msgid "All Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:121
+msgid "Search Team Member"
+msgstr ""
+
+#: ../bravo_app/models/team.php:122
+msgid "Parent Team Member:"
+msgstr ""
+
+#: ../bravo_app/models/team.php:123
+msgid "No Team Member found."
+msgstr ""
+
+#: ../bravo_app/models/team.php:124
+msgid "No Team Member found in Trash."
+msgstr ""
+
+#: ../bravo_ecommerce/libraries/author-meta.php:40
+msgid "Extra Profile Information"
+msgstr ""
+
+#: ../bravo_ecommerce/libraries/optiontree.php:131
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../bravo_ecommerce/libraries/optiontree.php:135
+#, php-format
+msgid "for %s"
+msgstr ""
+
+#: ../bravo_templates/elements/bravo-blog.php:37
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../bravo_templates/elements/bravo-blog.php:37
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: ../bravo_templates/elements/bravo_ios_slider.php:11
+msgid "iPhone Device"
+msgstr ""
+
+#: ../bravo_templates/import.php:10
+msgid "One-click Install Demo Content"
+msgstr ""
+
+#: ../bravo_templates/import.php:21
+msgid "Import"
+msgstr ""
+
+#: ../bravo_templates/posts/content.php:101
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: ../comments.php:27
+msgid "No comment"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Comment: 1"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Comments : %"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Type your message..."
+msgstr ""
+
+#: ../comments.php:96
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:97
+#, php-format
+msgid "Leave a COMMENT to %s"
+msgstr ""
+
+#: ../comments.php:98
+msgid "SEND COMMENT"
+msgstr ""
+
+#: ../index.php:6 ../single.php:14
+msgid "Our Latest Blog"
+msgstr ""
+
+#: ../index.php:13 ../single.php:15
+msgid "CLASSSIC NEWS POSTS"
+msgstr ""
+
+#: ../index.php:20
+#, php-format
+msgid "Search result for '%s'"
+msgstr ""
+
+#: ../loop-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../loop-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../loop-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../single.php:64
+msgid "By "
+msgstr ""
+
+#: ../single.php:65
+msgid "Leave A Comment"
+msgstr ""
+
+#: ../single.php:72
+msgid "Pages:"
+msgstr ""
+
+#: ../single.php:76
+msgid "Page"
+msgstr ""

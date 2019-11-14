@@ -1,0 +1,103 @@
+/*
+Theme Name:     StudioX Childtheme
+Description:    
+Author:         Bravotheme
+Template:       studiox
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.bravo_section_title h2{
+	font-size: 30px!important;
+	text-align: left!important;
+	font-weight: bold;
+	color:  #df1d40;
+}
+.custom-form-container{
+	width: 80%!important;
+	margin:auto;
+}
+
+.custom-form-container .form-field{
+	margin:20px 0;
+}
+.custom-form-container .form-field input{
+	padding: 5px 10px 5px 5px;
+	width: 100%;
+	border: 2px solid rgba(0, 0, 0, 0.1);
+}
+.custom-form-container .form-field textarea {
+	width: 100%;
+	padding: 5px 10px 5px 5px;
+	border: 2px solid rgba(0, 0, 0, 0.1);
+}
+.custom-form-container .submit-btn {
+	text-align: center;	
+	margin-top: 10px;
+}
+.custom-form-container .submit-btn input{
+	border: 1px solid red;
+    background: #df1d40;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 6px;
+    letter-spacing: 1px;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  letter-spacing: 1px;
+}
+::-moz-placeholder { /* Firefox 19+ */
+ letter-spacing: 1px;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  letter-spacing: 1px;
+}
+:-moz-placeholder { /* Firefox 18- */
+  letter-spacing: 1px;
+}
+
+.image_content img {
+    height: 269px!important;   
+    object-fit: cover!important;
+}
+
+.company_desc .wpb_wrapper p{
+	color: white !important;
+}
+
+/*.container {
+    padding-right: 75px !important;
+    padding-left: 75px !important;
+    margin-right: auto;
+    margin-left: auto;
+}*/
+
+
+.menu.nav.navbar-nav.navbar-right.navbars li{
+	font-weight: bold;
+	color: white!important;
+} 
+
+/*.menu.nav.navbar-nav.navbar-right.navbars li:hover {
+	color: white;
+	background: #df1d40;
+}
+.menu.nav.navbar-nav.navbar-right.navbars li:hover a {
+	color: white;
+}
+*/
+.slider-button.scroll.custom{
+	background: white !important;
+	color: black !important;
+}
+
+.container-fluid {
+	background: white;
+	opacity: 0.8;
+}
+
+.download_btn a{
+	background-color:#df1d40 !important;
+	color: #fff!important;
+}
+

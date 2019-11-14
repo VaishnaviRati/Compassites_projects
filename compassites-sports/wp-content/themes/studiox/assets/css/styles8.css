@@ -1,0 +1,93 @@
+/*navbar styling */
+.navbar .navbar-nav{
+
+
+    position: relative;
+    left: 50%;
+    display:block ;
+
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    -webkit-transition: transform linear 500ms;
+    -moz-transition: transform linear 500ms;
+    -ms-transition: transform linear 500ms;
+    -o-transition: transform linear 500ms;
+    transition: transform linear 500ms;
+
+
+}
+.navbar .navbar-nav li a{
+    color: #FFFFFF;
+}
+
+.shrink .navbar-nav li a{
+    color: #1b1b1b;
+}
+/*navbar styling end */
+
+/* slider styling */
+
+.tp-caption.slider-button > a{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 16px 50px;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background: #008cba;
+    color: #FFFFFF;
+    display: inline-block;
+    line-height: 20px;
+    -webkit-transition: all linear 300ms !important;
+    -moz-transition: all linear 300ms !important;
+    -ms-transition: all linear 300ms !important;
+    -o-transition: all linear 300ms !important;
+    transition: all linear 300ms !important;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.tp-caption.slider-button > a:hover{
+    background: #FFFFFF !important;
+    color: #1b1b1b !important;
+}
+.tp-caption.h2,
+.tp-caption.p
+{
+    line-height: normal;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.forcefullwidth_wrapper_tp_banner,
+#slider1 {
+    height: auto !Important;
+    overflow: visible;
+}
+/* slider styling */
+
+@media screen and (max-width: 992px) {
+    .navbar .navbar-nav{
+         left: 40%;
+     }
+    .navbar .navbar-nav li > a{
+        font-size: 10px;
+        font-weight: 400;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .tp-caption.slider-button > a{
+        padding: 11px 34px  ;
+    }
+}
+@media screen and (max-width: 496px) {
+    .tp-caption.p{
+        display: none !important;
+    }
+}
