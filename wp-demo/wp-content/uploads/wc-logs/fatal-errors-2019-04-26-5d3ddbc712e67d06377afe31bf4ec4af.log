@@ -1,0 +1,21 @@
+2019-04-26T07:25:25+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Unable to save action. in /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php:27
+Stack trace:
+#0 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('woocommerce_upd...', Array, 1556263519, 604800, '')
+#3 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(1556263519, 604800, 'wo in /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php on line 27
+
+2019-04-26T09:30:50+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Unable to save action. in /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php:27
+Stack trace:
+#0 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('woocommerce_upd...', Array, 1556271050, 604800, '')
+#3 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(1556271050, 604800, 'wo in /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php on line 27
+
+2019-04-26T09:31:01+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Unable to save action. in /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php:27
+Stack trace:
+#0 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('woocommerce_upd...', Array, 1556271059, 604800, '')
+#3 /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(1556271059, 604800, 'wo in /home/vagrant/code/wp-demo/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php on line 27
+
