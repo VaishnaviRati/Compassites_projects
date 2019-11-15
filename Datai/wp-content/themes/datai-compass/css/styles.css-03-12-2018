@@ -1,0 +1,220 @@
+
+
+/* ---------- GENERAL ---------- */
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  outline:none;
+}
+
+body {
+  width: 100%;
+  height:100%;
+  margin: 0;
+  /*color:#fff;
+  font:400 14px/1.4 "Proxima Nova", Arial, Helvetica, sans-serif ;
+  background-color: #180b4b;*/
+  
+}
+
+/* ---------- APPEAR STATE ---------- */
+
+/* ---------- CONTENTS ---------- */
+
+html,
+body {
+  height: 100%;
+}
+
+.section {
+  position: relative;
+  height: 100%;
+}
+
+
+
+.section__clip {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  clip: rect(auto, auto, auto, auto);
+  -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
+          clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
+}
+.section__content {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+:root {
+  --clip-position: center;
+}
+
+.mask-container {
+  display: none;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  top:0;
+  left:0;
+
+}
+
+@supports (-webkit-clip-path: circle(100px at center)) or (clip-path: circle(100px at center)) {
+  .mask-container {
+    display: block;
+  }
+  .mask-container .pattern {
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top:0;
+    left:0;
+    display: none;
+    background-image: url('data:image/svg+xml;utf8,<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">\a<defs>\a<pattern id="ashano" patternUnits="userSpaceOnUse" width="119" height="103" patternTransform="scale(.8)">\a<g stroke="rgba(255,255,255,.07)" fill="none">\a     <polygon points="89.3,0 89.3,34.4 119,51.6 89.3,68.7 89.3,103.1 59.5,85.9 29.8,103.1 29.8,68.7 0,51.5 29.8,34.4 29.8,0 59.5,17.2"/>\a     <line x1="59.5" y1="17.2" x2="59.5" y2="85.9"/>\a      <line x1="29.8" y1="68.7" x2="89.3" y2="34.4"/>\a     <line x1="89.3" y1="68.7" x2="29.8" y2="34.4"/>\a          <polyline points="89.3,103.1 119,85.9 119,51.5"/>\a          <polyline points="119,51.5 119,17.2 89.3,0"/>\a       <polyline points="29.8,0.1 0,17.2 0,51.6"/>\a         <polyline points="0.1,51.5 0.1,85.9 29.8,103.1" />\a  </g>\a</pattern>\a</defs>\a<rect width="100%" height="100%" fill="url(#ashano)" />\a</svg>');
+    -webkit-clip-path: circle(100px at var(--clip-position) );
+    clip-path: circle(100px at var(--clip-position) );
+  }
+}
+
+.scroll-update-fix .section__content {
+  -webkit-animation: mspatch 1s linear infinite;
+          animation: mspatch 1s linear infinite;
+}
+@-webkit-keyframes mspatch {
+  0% {
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+  }
+}
+@keyframes mspatch {
+  0% {
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+  }
+}
+
+.section_fixed .section__content {
+  position: fixed;
+}
+
+/* ---------- RESPONSIVE ---------- */
+@media only screen and (max-width: 640px) {
+  .section_fixed .section__content {
+    position: absolute;
+  }
+  .section1 .section__clip .background-content h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .section1 .background-content p {
+    font-size: 12px;
+  }
+
+  .section2_content_piller {
+    position: relative;
+    top: initial;
+    left: initial;
+    transform: initial;
+    width: 100%;
+  }
+  .section2_content {padding-top: 0px;}
+  .section2_content h3 {font-size: 22px;}
+  .section2_content h4 {
+    font-size: 12px;
+    max-width: 100%;
+    margin: 20px;
+    font-weight: 400;
+  }
+  .et_pb_code_inner {padding: 0px 20px !important;}
+  .tile-container {
+    width: 100%;
+    max-width: 100%;
+  }
+  .tile-block p {
+    height: initial;
+  }
+  .downArrowBtn, .arrow-icon {display: none;}
+  .section3_content_wrap .background-wrap {
+    height: 300px !important;
+  }
+  .section3 .background-content {
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    right: initial;
+  }
+  .section3 .background-content h3 {
+    font-size: 30px;
+  }
+  .section3_container {
+    width: 100%;
+  }
+  .section3_container p {
+    text-align: center;
+  }
+  .section3_container {height: 400px !important;}
+  .section5_container_heading h2 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: initial;
+    line-height: initial;
+    right: 0;
+    margin-top: 64px;
+  }
+  .section5_container_content {
+    position: absolute;
+    top: 25%;
+    left: 0;
+    transform: initial;
+    color: #fff;
+    width: 100%;
+    right: 0;
+    text-align: center;
+    bottom: initial;
+    margin: 0;
+  }
+  .section5_container h3 {
+    margin-top: 10px;
+  }
+  .section5_container p {
+    text-align: center;
+  }
+  .first-piller-background {
+    display: none;
+  }
+  .second-piller-background {
+    width: 100%;
+    float: initial;
+  }
+  .section6-content .background {
+    height: 100%;
+    background-size: 70% !important;
+    background-attachment: initial !important;
+    background-position: center !important;
+    background-clip: initial !important;
+  }
+  .section5_content_wrap .heading-text h3 {
+    top: 42%;
+    font-size: 30px;
+  }
+  .absolute-wrap-piller .absolute-wrap-2 p {
+    text-align: center;
+  }
+  .absolute-wrap-piller .absolute-wrap-1 {
+    height: 396px !important;
+  }
+  .absolute-wrap-piller .absolute-wrap-2 {
+    height: 459px !important;
+  }
+}
